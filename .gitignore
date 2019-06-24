@@ -20,3 +20,9 @@ Data/Instagram/Instagram_Year_7.csv
 Data/SZA_Chainsmoker_FB.csv
 Data/SZA_Chainsmoker_Twitter.csv
 Data/Twitter_5_year.csv
+instagram_7yrs_cleaned.csv
+CleanedDatasets/Combined_Social_Data.csv
+CleanedDatasets/master_artists_list.csv
+CleanedDatasets/SocialData/facebook_7yrs.csv
+CleanedDatasets/SocialData/twitter_features.csv
+CleanedDatasets/SocialData/youtube_to_combine.csv
