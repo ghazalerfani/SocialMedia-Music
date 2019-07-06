@@ -28,3 +28,9 @@ CleanedDatasets/SocialData/twitter_features.csv
 CleanedDatasets/SocialData/youtube_to_combine.csv
 CleanedDatasets/musicbrainz_data.csv
 CleanedDatasets/Combined_Social_Data2.csv
+InstagramData/Instagram_7_year_new_artists.csv
+CleanedDatasets/Combined_Social_Data_Pickle.pkl
+ArtistList_July2.xlsx
+ArtistList_July2_withDetails.xlsx
+instagram_7yrs_cleaned.pkl
+master_artists_list.csv
