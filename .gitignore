@@ -38,3 +38,5 @@ July8Data/facebook_7yrs.csv
 July8Data/musicbrainz_data.csv
 July8Data/twitter_features.csv
 July8Data/youtube_to_combine.csv
+*.pkl
+*.csv
