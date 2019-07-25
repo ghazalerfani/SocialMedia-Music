@@ -40,3 +40,5 @@ July8Data/twitter_features.csv
 July8Data/youtube_to_combine.csv
 *.pkl
 *.csv
+AWS/Sony_EC2_Ubuntu_Key.pem
+AWS/Sony_EC2_Ubuntu_Key.ppk
