@@ -28,7 +28,7 @@ To get started via the [Github page](https://github.com/ghazalerfani/SocialMedia
 
 To get started via the compact zip file (email for access), you need to unzip the folder to your local drive.  The folder will contain the following:
 
-* csv files that include the social media data for Facebook, Instagram, Twitter, Youtube.  The Youtube data was generated using the Youtube_notebook.ipynb.  MusicBrainz.ipynb will generate the album release date data.  The master_artists_list.csv will include artist information and foreign keys to map all the social media data together.
+* csv files that include the social media data for Facebook, Instagram, Twitter, Youtube.  The Youtube data was generated using the Youtube_notebook.ipynb.  MusicBrainz.ipynb will generate the album release date data.  The master_artists_list.csv will include artist information and foreign keys to map all the social media data together.  The ArtistList_July2_withDetails.xlsx file is used for Music Brainz mapping.
 
 * Seven Jupyter Notebook files.  The Youtube_notebook.ipynb will access the Youtube API and extract youtube video post information for the supplied artists.  The MusicBrainz.ipynb will do the same for MusicBrainz data.  The Combined Social Data.ipynb will import Facebook, Instagram, Twitter, Youtube, MusicBrainz and Artist lists files and complete all necessary steps to clean and merge the datasets.  It will output a Pickle file that can then be used for subsequent analysis.  The GMM_Model_Final.ipynb, FinalDeliverable_EDA.ipynb, Regression_Final.ipynb and Sentiment Analysis.ipynb Notebooks all load in the Pickle file for their own analytical pipelines.
 
